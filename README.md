@@ -1,45 +1,31 @@
-project_title: "Responsive Portfolio Website"
 
-description: >
-  A fully responsive portfolio website built using HTML, CSS, and JavaScript.
-  Designed to showcase personal details, skills, projects, and contact
-  information in a clean and modern interface.
+---
 
-key_features:
-  - title: "Modern Responsive Design"
-    details:
-      - Built with pure HTML and CSS
-      - Mobile-friendly layout
-      - Clean and attractive UI
-      - Works smoothly on all devices (phone, tablet, laptop)
+## ⚙️ Tech Stack
 
-  - title: "Organized Portfolio Sections"
-    details:
-      - Home / Hero Section
-      - About Me
-      - Skills
-      - Projects
-      - Contact Section
-      - Additional pages inside the views folder
+- **HTML** – Structure  
+- **CSS** – Styling, responsive layout  
+- **JavaScript** – Interactivity  
 
-  - title: "Smooth Interactions Using JavaScript"
-    details:
-      - Mobile navigation toggle
-      - Smooth scrolling effects
-      - Interactive UI components
-      - Basic DOM scripting
+No frameworks, no backend, no databases → **Fully frontend project.**
 
-project_structure:
-  root_folder: "final/"
-  files:
-    - index.html
-    - style/        # CSS styles
-    - js/           # JavaScript files
-    - views/        # Additional pages
-    - sample/       # Sample images
-    - assets/       # PNG/JPG assets
+---
 
-tech_stack:
-  HTML: "Structure"
-  CSS: "Styling and responsive layout"
-  JavaScript: "Interactivity"
+## 🚀 How to Run the Project
+
+1. Download or clone this repository  
+2. Open **index.html** in any browser  
+3. Website loads instantly — no extra setup required
+
+---
+
+## 🎯 Perfect For
+
+✔ Beginner web developers  
+✔ Portfolio / Resume website  
+✔ College or academic projects  
+✔ Showcasing personal skills and work  
+
+
+
+
